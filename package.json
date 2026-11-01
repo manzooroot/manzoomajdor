@@ -1,0 +1,13 @@
+{
+  "name": "majdoor-afk-bot",
+  "version": "1.0.0",
+  "description": "Minecraft AFK bot with auto-reconnect",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mineflayer": "^4.23.0"
+  }
+}
