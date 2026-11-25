@@ -1,13 +1,14 @@
 {
-  "name": "majdoor-afk-bot",
-  "version": "1.0.0",
-  "description": "Minecraft AFK bot with auto-reconnect",
+  "name": "taslima-both-termux",
+  "version": "2.1.0",
+  "description": "TASLIMA Mineflayer bot with wander and follow modes",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
     "express": "^4.19.2",
-    "mineflayer": "^4.23.0"
+    "mineflayer": "^4.23.0",
+    "mineflayer-pathfinder": "^2.4.5"
   }
 }
